@@ -23,12 +23,12 @@ $(function()
 	var songs = [{
 		artist: "Táo",
 		name: "Blue Tequila",
-		url: "TrinhPhatNhac/BlueTequila",
+		url: "Musics/BlueTequila",
 		picture: "https://imgur.com/QgNOXcW"
 	}, {
     artist: "buitruonglinh",
     name: "Đường Tôi Chở Em Về",
-    url: "TrinhPhatNhac/DuongToiChoEmVe.mp3",
+    url: "Musics/DuongToiChoEmVe.mp3",
     picture: "https://imgur.com/QgNOXcW"
 	}, {
 	
