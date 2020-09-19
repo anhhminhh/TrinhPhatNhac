@@ -30,7 +30,7 @@ $(function()
     name: "Đường Tôi Chở Em Về",
     url: "Musics/DuongToiChoEmVe.mp3",
     picture: "https://imgur.com/QgNOXcW"
-	}, {
+	}]
 	
 	function shuffle(a) {
 		var j, x, i;
