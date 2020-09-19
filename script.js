@@ -21,9 +21,9 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Đạt G - Du Uyên",
-		name: "Bánh Mì Không",
-		url: "Musics/BanhMiKhong.mp3",
+		artist: "Dig Didzay",
+		name: "Nếu Anh Đi (Cover)",
+		url: "Musics/NeuAnhDi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
